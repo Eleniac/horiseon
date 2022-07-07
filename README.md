@@ -2,22 +2,19 @@
 
 ## Description
 
-
-##Table of Contents (Optional)
-
 ## Installation 
 
 ## Usage
 
-##Credits
+#Credits
 
-## License
+# License
 
-##Badges
+#Badges
 
-##Features
+#Features
 
-## Contributing
+# Contributing
 
-##Tests
+#Tests
 
