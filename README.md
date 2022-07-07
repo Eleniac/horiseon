@@ -8,20 +8,38 @@ The project used semantic language to allow users viewing the code to understand
 
 ## Installation 
 To be able to code this project you will need a code editor such as Visual Studio Code. You will need a browser such as Google Chrome or Safari to open the webpage once it has been completed. 
+-OX terminal
+-Visual Studio Code
 
 ## Usage
 
-Website Images:
-brand-awareness.prng
-cost-mangement.png
-digital-marketing-meeting.jpg
-lead-generation.png
-online-reputation-management.jpg
-search-engine-optimization.jpg
-social-media-marketing.jpg
 
-Website screenshot:
-Horiseon Web Image
+![Horiseon-website-screenshot](https://github.com/Eleniac/horiseon/blob/main/assets/images/Horiseon%20Web%20Image.png)
+
+![header-screenshot] 
+![search-engine-optimization-screenshot]
+![online-reputation-mangement-screenshot]
+![cost-management-screenshot]
+![lead-generation-screenshot]
+![brand-awareness-screenshot]
+
+Images:
+
+! [brand-awareness.prng] (https://github.com/Eleniac/horiseon/blob/main/assets/images/brand-awareness.png)
+
+! [cost-mangement.png] (https://github.com/Eleniac/horiseon/blob/main/assets/images/cost-management.png)
+
+! [digital-marketing-meeting.jpg] (https://github.com/Eleniac/horiseon/blob/main/assets/images/digital-marketing-meeting.jpg)
+
+! [lead-generation.png] (https://github.com/Eleniac/horiseon/blob/main/assets/images/lead-generation.png)
+
+! [online-reputation-management.jpg] (https://github.com/Eleniac/horiseon/blob/main/assets/images/online-reputation-management.jpg)
+
+! [search-engine-optimization.jpg] (https://github.com/Eleniac/horiseon/blob/main/assets/images/search-engine-optimization.jpg)
+
+! [social-media-marketing.jpg] (https://github.com/Eleniac/horiseon/blob/main/assets/images/social-media-marketing.jpg)
+
+
 
 
 # License
