@@ -12,16 +12,19 @@ To be able to code this project you will need a code editor such as Visual Studi
 -Visual Studio Code
 
 ## Usage
-
-
 ![Horiseon-website-screenshot](https://github.com/Eleniac/horiseon/blob/main/assets/images/Horiseon%20Web%20Image.png)
 
-![header-screenshot] 
-![search-engine-optimization-screenshot]
-![online-reputation-mangement-screenshot]
-![cost-management-screenshot]
-![lead-generation-screenshot]
-![brand-awareness-screenshot]
+![header-screenshot](https://github.com/Eleniac/horiseon/blob/main/assets/images/header-screenshot.png)
+
+![search-engine-optimization-screenshot](https://github.com/Eleniac/horiseon/blob/main/assets/images/search-engine-optimization-screenshot.png)
+
+![online-reputation-mangement-screenshot](https://github.com/Eleniac/horiseon/blob/main/assets/images/online-brand-reputation-screenshot.png)
+
+![cost-management-screenshot](https://github.com/Eleniac/horiseon/blob/main/assets/images/cost-mangement-screenshot.png)
+
+![lead-generation-screenshot](https://github.com/Eleniac/horiseon/blob/main/assets/images/lead-generation-screenshot.png)
+
+![brand-awareness-screenshot](https://github.com/Eleniac/horiseon/blob/main/assets/images/brand-awareness-screenshot.png)
 
 Images:
 
