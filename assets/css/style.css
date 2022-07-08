@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
 body {
-    background-color: #d9dcd6;
+    background-color:  #d9dcd6; /* sets background color of the page */
 }
 
+/* styles the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,17 +15,18 @@ body {
     color: #ffffff;
 }
 
+/* keeps the text inside of the header block */
 .header h1 {
     display: inline-block;
     font-size: 48px;
-    color: #d9dcd6;
 }
 
-.seo {
-    color: #d9dcd6; 
+.seo { 
+    color: #d9dcd6; /* changes the color of seo in the horiseon title*/
 }
 
-.header section {
+/* keeps the links on the right side of the page*/
+.header section { 
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,22 +34,20 @@ body {
     font-size: 20px;
 }
 
-.header section ul {
-    list-style-type: none;
-}
-
-.header section ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
+a {      
+    color: #ffffff;  /* sets the color of the links in the header*/
     text-decoration: none;
 }
 
+/* lines the links side by side in the header*/
+.header section ul li {  
+    display: inline-block;
+    margin-left: 25px;
+    list-style-type: none;
+}
+
 p {
-    font-size: 16px; /* Set font size to 16px */
+    font-size: 16px; /* set font size to 16px */
 }
 
 .hero {
@@ -60,12 +59,14 @@ p {
     background-position: center;
 }
 
+/* keeps the contents of the page in their respective boxes*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* boxes containing the content section of the page */
 .contents {
     margin-bottom: 20px;
     padding: 50px;
@@ -73,25 +74,24 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-.search-engine-optimization .online-reputation-management .social-media-marketing h2 {
-    margin-bottom: 20px;
     font-size: 36px;
 }
 
-.float-left { /*contains the images for the contents section */
+/*contains the images for the contents section */
+.float-left { 
     float: left;
     margin-right: 25px;
     max-height: 200px;
 }
 
-.float-right { /*contains one of the images for the contents section */
+/*contains one of the images for the contents section */
+.float-right {
     float: right;
     margin-left: 25px;
     max-height: 200px;
 }
 
+/* the box holding the benefit class information on the side of the page */
 .benefit {
     margin-right: 20px;
     padding: 20px;
@@ -105,27 +105,26 @@ p {
 
 .benefits {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #ffffff; /* sets the background color of the benefits' text */
 }
 
 .benefits h3 {
     margin-bottom: 10px;
-    text-align: center;
+    text-align: center; /* centers the text */
 }
 
+/* sets the size of the benefits images */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* all footer information */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h2 {
     font-size: 20px;
 }
