@@ -1,10 +1,10 @@
 # Horiseon
 This project was created for Horiseon, a marketing company to improve user experience accessing their site. 
 ## Description
-This project is able to communicate in an accessible and effective way to potential clients what Horiseon is able to produce to assist with their marketing needs. This project is structured in a way that the information is clear, accessible and easy to understand. Horiseon provided starter code that did not use semantic language. Horiseon wanted their code to use semantic HTML elements, view structures of HTML elements, find that elements follow a logical structure independent of styling and positions, view icon and image elements, find accessible alt attributes, heading attributes, fall in sequential order and have concise, descriptive titles. 
-I created alt's for the images. I changed the HTML elements to a semantic langue. In CSS I combined elements to decrease repetition. I structured the style sheet in cascading order.  
+This project is able to communicate in an accessible and effective way to potential clients what Horiseon is able to produce to assist with their marketing needs. This project is structured in a way that the information is clear, accessible and easy to understand. Horiseon provided starter code that required me to refractor the code. Horiseon wanted their code to use semantic HTML elements, view structures of HTML elements, find that elements follow a logical structure independent of styling and positions, view icon and image elements, find accessible alt attributes, heading attributes, fall in sequential order and have concise, descriptive titles. 
+I created alternative text for the images. I changed the HTML elements to a semantic language. In CSS I combined elements to decrease repetition. I structured the style sheet in cascading order.  
 
-The project used semantic language to allow users viewing the code to understand clearly which part of the code is pertaining to particular parts of the website. The CSS page has been re-ordered to allow the reader to easily understand which style elements pertain to which section of the HTML page. 
+The project used semantic language to allow users viewing the code to understand clearly which part of the code is pertaining to particular parts of the website. The CSS page has been re-ordered to allow the reader to easily understand which style elements pertain to which section of the HTML page and follow the cascading format. 
 
 ## Installation 
 To be able to code this project you will need a code editor such as Visual Studio Code. You will need a browser such as Google Chrome or Safari to open the webpage once it has been completed and to make sure you are making the correct adjustments as you go on. 
@@ -18,11 +18,9 @@ git clone https://github.com/Eleniac/horiseon.git
 
 ```
 
-
-
 ## Usage
 
-To alter the code in the HTML document I began with changing the <div> tags to semantic tags such as; <header>, <main>, <section>, and <aside>. I added "alts" to the images. On the CSS page I combined the h1 sections. I condensed the benefit and benefits elements and content and contents elements. I adjusted the HTML page accordingly. I combined the footer elements in the CSS page. 
+To refactor the code in the HTML document I began with changing the <div> tags to semantic tags such as; <header>, <main>, <section>, and <aside>. I added alternative text to the images. On the CSS page I combined the h1 sections. I condensed the benefit and benefits elements and content and contents elements. I adjusted the HTML page accordingly. I combined the footer elements in the CSS page. 
 
 ![Horiseon-website-screenshot](https://raw.githubusercontent.com/Eleniac/horiseon/main/assets/images/Horiseon-website-screenshot.png)
 
@@ -40,9 +38,9 @@ To alter the code in the HTML document I began with changing the <div> tags to s
 
 Images:
 
-! [brand-awareness.prng] (https://github.com/Eleniac/horiseon/blob/main/assets/images/brand-awareness.png)
+! [brand-awareness.prng] (https://raw.githubusercontent.com/Eleniac/horiseon/main/assets/images/brand-awareness.png)
 
-! [cost-mangement.png] (https://github.com/Eleniac/horiseon/blob/main/assets/images/cost-management.png)
+! [cost-mangement.png] (https://raw.githubusercontent.com/Eleniac/horiseon/main/assets/images/cost-management.png)
 
 ! [digital-marketing-meeting.jpg] (https://github.com/Eleniac/horiseon/blob/main/assets/images/digital-marketing-meeting.jpg)
 
