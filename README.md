@@ -7,24 +7,36 @@ I created alt's for the images. I changed the HTML elements to a semantic langue
 The project used semantic language to allow users viewing the code to understand clearly which part of the code is pertaining to particular parts of the website. The CSS page has been re-ordered to allow the reader to easily understand which style elements pertain to which section of the HTML page. 
 
 ## Installation 
-To be able to code this project you will need a code editor such as Visual Studio Code. You will need a browser such as Google Chrome or Safari to open the webpage once it has been completed. 
+To be able to code this project you will need a code editor such as Visual Studio Code. You will need a browser such as Google Chrome or Safari to open the webpage once it has been completed and to make sure you are making the correct adjustments as you go on. 
+
 -OX terminal
 -Visual Studio Code
+-Recommend: 1.6 GHz or faster processor. 1 GB of RAM to run Visual Studio Code
+
+```
+git clone https://github.com/Eleniac/horiseon.git
+
+```
+
+
 
 ## Usage
-![Horiseon-website-screenshot](https://github.com/Eleniac/horiseon/blob/main/assets/images/Horiseon%20Web%20Image.png)
 
-![header-screenshot](https://github.com/Eleniac/horiseon/blob/main/assets/images/header-screenshot.png)
+To alter the code in the HTML document I began with changing the <div> tags to semantic tags such as; <header>, <main>, <section>, and <aside>. I added "alts" to the images. On the CSS page I combined the h1 sections. I condensed the benefit and benefits elements and content and contents elements. I adjusted the HTML page accordingly. I combined the footer elements in the CSS page. 
 
-![search-engine-optimization-screenshot](https://github.com/Eleniac/horiseon/blob/main/assets/images/search-engine-optimization-screenshot.png)
+![Horiseon-website-screenshot](https://raw.githubusercontent.com/Eleniac/horiseon/main/assets/images/Horiseon-website-screenshot.png)
 
-![online-reputation-mangement-screenshot](https://github.com/Eleniac/horiseon/blob/main/assets/images/online-brand-reputation-screenshot.png)
+![header-screenshot](https://raw.githubusercontent.com/Eleniac/horiseon/main/assets/images/header-screenshot.png)
 
-![cost-management-screenshot](https://github.com/Eleniac/horiseon/blob/main/assets/images/cost-mangement-screenshot.png)
+![search-engine-optimization-screenshot](https://raw.githubusercontent.com/Eleniac/horiseon/main/assets/images/search-engine-optimization-screenshot.png)
 
-![lead-generation-screenshot](https://github.com/Eleniac/horiseon/blob/main/assets/images/lead-generation-screenshot.png)
+![online-reputation-mangement-screenshot](https://raw.githubusercontent.com/Eleniac/horiseon/main/assets/images/online-brand-reputation-screenshot.png)
 
-![brand-awareness-screenshot](https://github.com/Eleniac/horiseon/blob/main/assets/images/brand-awareness-screenshot.png)
+![cost-management-screenshot](https://raw.githubusercontent.com/Eleniac/horiseon/main/assets/images/cost-mangement-screenshot.png)
+
+![lead-generation-screenshot](https://raw.githubusercontent.com/Eleniac/horiseon/main/assets/images/lead-generation-screenshot.png)
+
+![brand-awareness-screenshot](https://raw.githubusercontent.com/Eleniac/horiseon/main/assets/images/brand-awareness.png)
 
 Images:
 
@@ -42,8 +54,9 @@ Images:
 
 ! [social-media-marketing.jpg] (https://github.com/Eleniac/horiseon/blob/main/assets/images/social-media-marketing.jpg)
 
-
-
+# Credits
+[University-of-Minnesota-Boot-Camp]
+(https://umn.bootcampcontent.com/University-of-Minnesota-Boot-Camp/UofM-VIRT-FSF-PT-06-2022-U-LOLC)
 
 # License
 MIT License
@@ -67,7 +80,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-# Contributing
+
+
+
+
+
 
 
 
