@@ -9,9 +9,7 @@ The project used semantic language to allow users viewing the code to understand
 ## Installation 
 To be able to code this project you will need a code editor such as Visual Studio Code. You will need a browser such as Google Chrome or Safari to open the webpage once it has been completed and to make sure you are making the correct adjustments as you go on. 
 
--OX terminal
--Visual Studio Code
--Recommend: 1.6 GHz or faster processor. 1 GB of RAM to run Visual Studio Code
+The following programs are recommended: OX terminal, Visual Studio Code, and a 1.6 GHz or faster processor to run Visual Studio Code.
 
 ```
 git clone https://github.com/Eleniac/horiseon.git
@@ -20,7 +18,9 @@ git clone https://github.com/Eleniac/horiseon.git
 
 ## Usage
 
-To refactor the code in the HTML document I began with changing the <div> tags to semantic tags such as; <header>, <main>, <section>, and <aside>. I added alternative text to the images. On the CSS page I combined the h1 sections. I condensed the benefit and benefits elements and content and contents elements. I added an "id" to the "Search Engine Optimization" section to link it to the bottom section. I adjusted the HTML page accordingly. I combined the footer elements in the CSS page. 
+To refactor the code in the HTML document I began with changing the "div" tags to semantic tags such as; "header", "main", "section", and "aside". I added alternative text to the images. On the CSS page I combined the h1 sections. I condensed the benefit and benefits elements and content and contents elements. I added an "id" to the "Search Engine Optimization" section to link it to the bottom section. I adjusted the HTML page accordingly. I combined the footer elements in the CSS page. 
+
+Screenshots:
 
 ![Horiseon-website-screenshot](https://raw.githubusercontent.com/Eleniac/horiseon/main/assets/images/Horiseon-website-screenshot.png)
 
@@ -34,7 +34,7 @@ To refactor the code in the HTML document I began with changing the <div> tags t
 
 ![lead-generation-screenshot](https://raw.githubusercontent.com/Eleniac/horiseon/main/assets/images/lead-generation-screenshot.png)
 
-![brand-awareness-screenshot](https://raw.githubusercontent.com/Eleniac/horiseon/main/assets/images/brand-awareness.png)
+![brand-awareness-screenshot](https://raw.githubusercontent.com/Eleniac/horiseon/main/assets/images/brand-awareness-screenshot.png)
 
 Images:
 
