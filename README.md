@@ -20,7 +20,7 @@ git clone https://github.com/Eleniac/horiseon.git
 
 ## Usage
 
-To refactor the code in the HTML document I began with changing the <div> tags to semantic tags such as; <header>, <main>, <section>, and <aside>. I added alternative text to the images. On the CSS page I combined the h1 sections. I condensed the benefit and benefits elements and content and contents elements. I adjusted the HTML page accordingly. I combined the footer elements in the CSS page. 
+To refactor the code in the HTML document I began with changing the <div> tags to semantic tags such as; <header>, <main>, <section>, and <aside>. I added alternative text to the images. On the CSS page I combined the h1 sections. I condensed the benefit and benefits elements and content and contents elements. I added an "id" to the "Search Engine Optimization" section to link it to the bottom section. I adjusted the HTML page accordingly. I combined the footer elements in the CSS page. 
 
 ![Horiseon-website-screenshot](https://raw.githubusercontent.com/Eleniac/horiseon/main/assets/images/Horiseon-website-screenshot.png)
 
