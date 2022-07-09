@@ -1,7 +1,7 @@
 # Horiseon
-This project was created for Horiseon, a marketing company to improve user experience accessing their site. 
+This project was created for Horiseon, a marketing company to improve user experience accessing their site. Horiseon's code needed to be refractored to accomplish this. 
 ## Description
-This project is able to communicate in an accessible and effective way to potential clients what Horiseon is able to produce to assist with their marketing needs. This project is structured in a way that the information is clear, accessible and easy to understand. Horiseon provided starter code that required me to refractor the code. Horiseon wanted their code to use semantic HTML elements, view structures of HTML elements, find that elements follow a logical structure independent of styling and positions, view icon and image elements, find accessible alt attributes, heading attributes, fall in sequential order and have concise, descriptive titles. 
+Horiseon provided starter code that required me to refractor the code to improve accessibility. Horiseon wanted their code to use semantic HTML elements, view structures of HTML elements, find that elements follow a logical structure independent of styling and positions, view icon and image elements, find accessible alt attributes, heading attributes, fall in sequential order and have concise, descriptive titles. 
 I created alternative text for the images. I changed the HTML elements to a semantic language. In CSS I combined elements to decrease repetition. I structured the style sheet in cascading order.  
 
 The project used semantic language to allow users viewing the code to understand clearly which part of the code is pertaining to particular parts of the website. The CSS page has been re-ordered to allow the reader to easily understand which style elements pertain to which section of the HTML page and follow the cascading format. 
@@ -18,7 +18,7 @@ git clone https://github.com/Eleniac/horiseon.git
 
 ## Usage
 
-To refactor the code in the HTML document I began with changing the "div" tags to semantic tags such as; "header", "main", "section", and "aside". I added alternative text to the images. On the CSS page I combined the h1 sections. I condensed the benefit and benefits elements and content and contents elements. I added an "id" to the "Search Engine Optimization" section to link it to the bottom section. I adjusted the HTML page accordingly. I combined the footer elements in the CSS page. 
+To refactor the code in the HTML document all the "div" tags needed to be changed to semantic tags such as; "header", "main", "section", and "aside". I added alt attributes to the images. On the CSS page, I combined the h1 sections. I condensed the benefit and benefits elements and content and contents elements. I added an "id" to the "Search Engine Optimization" section to link it to the bottom section. I combined the footer elements in the CSS page. Comments were added to the CSS page. A descriptive title was added in the "title" section.
 
 Screenshots:
 

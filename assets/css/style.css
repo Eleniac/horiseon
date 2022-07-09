@@ -39,7 +39,7 @@ a {
     text-decoration: none;
 }
 
-/* lines the links side by side in the header*/
+/* sets the links side by side in the header*/
 .header section ul li {  
     display: inline-block;
     margin-left: 25px;
@@ -50,6 +50,7 @@ p {
     font-size: 16px; /* set font size to 16px */
 }
 
+/* sets the large image on the page */
 .hero {
     height: 800px;
     width: 100%;
